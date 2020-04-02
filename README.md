@@ -1,2 +1,1 @@
-# Arrays
-Questions &amp; Solutions related to Arrays
+Merged into https://github.com/shantanoo-sinha/LeetCode-Practice-Solutions.git
